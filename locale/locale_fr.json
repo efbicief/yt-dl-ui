@@ -1,0 +1,11 @@
+{
+    "this translation is for testing": "please don't use",
+    "wm_title": "yt-dl-ui",
+    "fetch_info": "Trouver La Vidéo",
+    "audio_choice": "Audio",
+    "video_choice": "Vidéo",
+    "see_all": "Plus...",
+    "save_loc_button":  "Sélectionner",
+    "default_save_loc_lbl": "Aucun Répertoire Sélectionné",
+    "go_button": "Commencer Le Téléchargement"
+}
