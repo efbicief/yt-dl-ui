@@ -1,0 +1,10 @@
+{
+    "wm_title": "yt-dl-ui",
+    "fetch_info": "Fetch Info",
+    "audio_choice": "Audio",
+    "video_choice": "Video",
+    "see_all": "See All...",
+    "save_loc_button":  "Browse",
+    "default_save_loc_lbl": "No save location set",
+    "go_button": "Start Download"
+}
